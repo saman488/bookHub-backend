@@ -1,6 +1,6 @@
 package com.bookhub.bookhub.dao;
 
-import com.bookhub.bookhub.entiry.Book;
+import com.bookhub.bookhub.entity.Book;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

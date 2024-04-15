@@ -1,4 +1,4 @@
-package com.bookhub.bookhub.entiry;
+package com.bookhub.bookhub.entity;
 
 import lombok.Data;
 

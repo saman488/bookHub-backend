@@ -1,6 +1,6 @@
 package com.bookhub.bookhub.config;
 
-import com.bookhub.bookhub.entiry.Book;
+import com.bookhub.bookhub.entity.Book;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.rest.core.config.RepositoryRestConfiguration;
 import org.springframework.data.rest.webmvc.config.RepositoryRestConfigurer;
